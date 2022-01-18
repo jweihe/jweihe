@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-😄😄😄
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jweihe&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+![Metrics](https://metrics.lecoq.io/jweihe?template=terminal&base.metadata=0&stars=1&code=1&achievements=1&lines=1&stars.limit=4&code.lines=12&code.load=100&code.visibility=public&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FShanghai)
