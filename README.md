@@ -1,6 +1,3 @@
-### Hi there 👋
-### Hi there 👋  <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdwro0121&count_bg=%236F91E6&title_bg=%23737373&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=true">
-
 <!--
 **JweiHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+😄😄😄
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jweihe)](https://github.com/anuraghazra/github-readme-stats)
