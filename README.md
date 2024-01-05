@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/jweihe/jweihe/main/assets/github-contribution-grid-snake.svg)              
 <h1 align="center">Hi 👋, I'm Jweihe 👨‍💻</h1>
-<h3 align="center">A beginner in AI who believes that AGI (Artificial General Intelligence) will ultimately be realized.</h3>
+<h3 align="center">A beginner in AI who believes that AGI will ultimately be realized.</h3>
 
 <p align="center">
 <a title="Hits" target="_blank" href="https://github.com/codeman008/codeman008"><img src="https://hits.b3log.org/codeman008/codeman008.svg" ></a>
