@@ -1,3 +1,3 @@
 ### Hi 👋
 
-![](https://raw.githubusercontent.com/jweihe/jweihe/output/github-snake.svg)
+![](https://raw.githubusercontent.com/jweihe/jweihe/main/assets/github-contribution-grid-snake.svg)              
