@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/jweihe/jweihe/main/assets/github-contribution-grid-snake.svg)              
 <h1 align="center">Hi 👋, I'm Jweihe 👨‍💻</h1>
 <h3 align="center">A beginner in AI who believes that AGI will ultimately be realized.</h3>
-
+I am passionate about artificial intelligence and its potential to revolutionize our world. My journey in AI is just beginning, and I am eager to learn and contribute to the field, especially in the realm of AGI.
 <p align="center">
 <a title="Hits" target="_blank" href="https://github.com/jweihe/jweihe"><img src="https://hits.b3log.org/jweihe/jweihe.svg" ></a>
 <a title="github" target="_blank" href="https://github.com/jweihe"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Djweihe&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>
