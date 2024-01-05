@@ -1,8 +1,6 @@
 ![](https://raw.githubusercontent.com/jweihe/jweihe/main/assets/github-contribution-grid-snake.svg)              
 <h1 align="center">Hi 👋, I'm Jweihe 👨‍💻</h1>
-<div class="highlighted-text">
-    I firmly believe that AGI will eventually arrive, and we are all witnessing it.
-</div>
+<h1 align="center">I firmly believe that AGI will eventually arrive, and we are all witnessing it!</h1>
 
 
 <p align="center">
