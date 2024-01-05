@@ -3,7 +3,7 @@
     👋 Hi, I'm Jweihe 🧑‍💻
 </h1>
 <h1 align="center" style="color: #2a9d8f; font-weight: bold;">
-    🌟 AGI is coming – we're part of its dawn! 🌅
+    🌟 AGI is coming ！！ We're part of its dawn！！ 🌅
 </h1>
 
 
