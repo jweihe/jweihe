@@ -8,7 +8,6 @@
 </p>
 
 
-<p align="center"><img width="300" height="200" src="https://github.com/jweihe/jweihe/blob/main/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif"/> </div>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jweihe&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
