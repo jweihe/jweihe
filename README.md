@@ -1,19 +1,10 @@
-<!--
-**JweiHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there 👋
 
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jweihe&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
- -->
-![Metrics](https://metrics.lecoq.io/jweihe?template=terminal&base.metadata=0&stars=1&code=1&achievements=1&lines=1&stars.limit=4&code.lines=12&code.load=100&code.visibility=public&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FShanghai)
+<p align="center">
+  <a href="https://github.com/jweihe/klein" target="_blank"><img src="https://img.shields.io/badge/klein-paxos-brightgreen?style=for-the-badge&logo=&logoColor=white" alt="Visualize everything, algorithm, framework...." /></a>
+  <a href="https://github.com/jweihe/visual" target="_blank"><img src="https://img.shields.io/badge/visual-consensus-orange?style=for-the-badge&logo=&logoColor=white" alt="Klein is a Paxos based distributed caching framework" /></a>
+  <a href="https://ofcoder.com" target="_blank"><img src="https://img.shields.io/badge/ofcoder-blog-blue?style=for-the-badge&logo=&logoColor=white" alt="Blogs" /></a>
+</p> 
+
+![](https://raw.githubusercontent.com/jweihe/jweihe/output/github-snake.svg)
