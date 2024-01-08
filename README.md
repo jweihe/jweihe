@@ -1,9 +1,6 @@
 ![](https://raw.githubusercontent.com/jweihe/jweihe/main/assets/github-contribution-grid-snake.svg)              
-<h1 align="center">
-    👋 Hi, I'm Jweihe 🧑‍💻
-</h1>
 <h1 align="center" style="color: #2a9d8f; font-weight: bold;">
-    🌟 AGI is coming~ We're part of its dawn！ 🌅
+    🌟 AGI is coming~  We're part of its dawn！ 🌅
 </h1>
 
 
