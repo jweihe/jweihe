@@ -1,6 +1,4 @@
-<h1 align="center" style="color: #2a9d8f; font-weight: bold;">
-    🌟 AGI is coming~  We're part of its dawn！ 🌅
-</h1>
+
 
 
 <p align="center">
