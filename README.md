@@ -41,12 +41,12 @@
     <td width="50%">
       <h3>SkillsBench</h3>
       <p>Benchmarking whether agent skills actually work across diverse tasks, models, and realistic workflows.</p>
-      <p><a href="https://www.skillsbench.ai/">Website</a> · <a href="https://github.com/benchflow-ai/skillsbench">GitHub</a> · <a href="https://arxiv.org/abs/2602.12670">Paper</a></p>
+      <p><a href="https://www.skillsbench.ai/">Website</a> / <a href="https://github.com/benchflow-ai/skillsbench">GitHub</a> / <a href="https://arxiv.org/abs/2602.12670">Paper</a></p>
     </td>
     <td width="50%">
       <h3>Harbor</h3>
       <p>Running agent evaluations, task environments, and rollout workflows for RL-oriented optimization.</p>
-      <p><a href="https://www.harborframework.com/">Website</a> · <a href="https://github.com/harbor-framework/harbor">GitHub</a></p>
+      <p><a href="https://www.harborframework.com/">Website</a> / <a href="https://github.com/harbor-framework/harbor">GitHub</a></p>
     </td>
   </tr>
 </table>
