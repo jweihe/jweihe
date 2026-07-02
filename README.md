@@ -12,6 +12,9 @@
   <a href="https://github.com/harbor-framework/harbor">
     <img src="https://img.shields.io/github/stars/harbor-framework/harbor?style=for-the-badge&label=Harbor&labelColor=111827&color=38BDF8" alt="Harbor stars" />
   </a>
+  <a href="https://github.com/walkinglabs/hands-on-modern-rl">
+    <img src="https://img.shields.io/github/stars/walkinglabs/hands-on-modern-rl?style=for-the-badge&label=Modern%20RL&labelColor=111827&color=34D399" alt="Hands-on Modern RL stars" />
+  </a>
 </p>
 
 </div>
