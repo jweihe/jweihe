@@ -5,8 +5,13 @@
 <br />
 <br />
 
-<a href="https://star-history.com/#benchflow-ai/skillsbench&harbor-framework/harbor&Date">
-  <img width="720" src="https://api.star-history.com/svg?repos=benchflow-ai/skillsbench,harbor-framework/harbor&type=Date" alt="Star history for SkillsBench and Harbor" />
-</a>
+<p>
+  <a href="https://github.com/benchflow-ai/skillsbench">
+    <img src="https://img.shields.io/github/stars/benchflow-ai/skillsbench?style=for-the-badge&label=SkillsBench&labelColor=111827&color=A78BFA" alt="SkillsBench stars" />
+  </a>
+  <a href="https://github.com/harbor-framework/harbor">
+    <img src="https://img.shields.io/github/stars/harbor-framework/harbor?style=for-the-badge&label=Harbor&labelColor=111827&color=38BDF8" alt="Harbor stars" />
+  </a>
+</p>
 
 </div>
